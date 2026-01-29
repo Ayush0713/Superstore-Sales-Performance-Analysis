@@ -15,6 +15,6 @@ The primary goal of this project was to transform raw transactional data into a 
 - What is the most common shipping method, and what percentage of the total does it represent.
 
 ## Dashboard
-<a href="
+<a href="https://github.com/Ayush0713/Superstore-Sales-Performance-Analysis/blob/main/Superstore%20Sales%20Dashboard.png">Dashboard</a>
 
 
